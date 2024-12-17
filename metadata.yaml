@@ -1,0 +1,29 @@
+_repo: The-circuit-rider-b-A-tale-of-the-Heroic-Age_74840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Eggleston
+description: ''
+gutenberg_issued: '2024-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74840'
+language: en
+pgterms:marc904: https://archive.org/details/circuitridertale00egglrich
+pgterms:marc905: 20241202143209eggleston
+pgterms:marc906: '1874'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bJ. B. Ford & Company, $c1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The circuit rider : $b A tale of the Heroic Age'
+url: http://www.gutenberg.org/ebooks/74840
