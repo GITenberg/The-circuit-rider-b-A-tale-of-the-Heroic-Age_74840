@@ -1,5 +1,8 @@
 _repo: The-circuit-rider-b-A-tale-of-the-Heroic-Age_74840
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74840-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Eggleston, Edward
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3293
     wikipedia: https://en.wikipedia.org/wiki/Edward_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74840#The-circuit-rider-b-A-tale-of-the-Heroic-Age
 gutenberg_issued: '2024-12-05'
 gutenberg_type: Text
 identifiers:
